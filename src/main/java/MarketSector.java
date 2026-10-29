@@ -1,0 +1,15 @@
+public enum MarketSector {
+
+    TECHNOLOGY,
+    HEALTHCARE,
+    ENERGY,
+    FINANCE,
+    CONSUMER,
+    INDUSTRIALS,
+    REAL_ESTATE,
+    UTILITIES,
+    COMMUNICATIONS,
+    MATERIALS,
+    OTHER
+
+}

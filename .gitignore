@@ -1,0 +1,32 @@
+
+# Secrets and API keys
+api.properties
+config.properties
+src/main/java/api.properties
+src/main/resources/api.properties
+
+# Java compiled files and build output
+*.class
+target/
+release/classes/
+
+# Generated release packages and build output
+/release/
+
+# Local databases and user data
+*.db
+*.db-shm
+*.db-wal
+users.dat
+users-backup.dat
+
+# Logs and backups
+*.log
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Stock Predictor",
+            "request": "launch",
+            "mainClass": "Main",
+            "cwd": "${workspaceFolder}",
+            "classPaths": [
+                "${workspaceFolder}/src/main/java",
+                "${workspaceFolder}/lib/*"
+            ]
+        }
+    ]
+}
